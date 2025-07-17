@@ -1,0 +1,44 @@
+h1{
+    color:  rgb(8, 51, 108);
+    background-color:rgb(112, 172, 218);
+    font-style: italic;
+}
+.button{
+    background-color: rgb(8, 51, 108) ;
+    color: rgb(112, 172, 218);
+    margin-left: 175px;
+    margin-bottom: 15px;
+    border-radius: 10px;
+    
+}
+
+article{
+    background-color:rgb(112, 172, 218) ;
+    border-radius: 15px;
+}
+h2{
+    margin-left: 175px;
+    color:  rgb(8, 51, 108);
+}
+main{
+    background-color: rgb(227, 227, 227);
+}
+.discription{
+    color:rgb(8, 51, 108);
+    padding: 20px;
+    font-weight: bold;
+    font-family: sans-serif;
+    font-style: italic;
+    
+}
+.price{
+    margin-left: 20px;
+    margin-right: 320px;
+    font-size: x-large;
+    font-style: italic;
+    font-weight: bolder;
+    background-color: rgb(45, 217, 71);
+}
+.button:hover{
+    background-color: rgb(45, 117, 217);
+}
