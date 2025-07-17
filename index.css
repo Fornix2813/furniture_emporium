@@ -42,3 +42,7 @@ main{
 .button:hover{
     background-color: rgb(45, 117, 217);
 }
+.nav{
+    font-style: italic;
+    font-weight: bolder;
+}
